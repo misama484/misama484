@@ -18,7 +18,7 @@
 
 ### Puedes encontrame tambien en:
 
-[![Web](https://img.shields.io/badge/Web-MiguelSanchez.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://miguelsanchezmartinez.es)
+[![Web](https://img.shields.io/badge/Web-miguelsanchezmartinez.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://miguelsanchezmartinez.es)
 [![Web](https://img.shields.io/badge/Web-MiguelSanchez.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://miguelsanchez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sanchezmartinezmiguel/)</br>
 [![Discord](https://img.shields.io/badge/Discord-Miguel_Sanchez-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)]([https://mouredev.com/discord](https://discord.com/channels/M.%20Sanchez#1705))
