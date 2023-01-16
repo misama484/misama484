@@ -1,4 +1,4 @@
-### 👋 Hola! Bienvenido a miguelsanchez.dev
+### 👋 Hola! Bienvenido a mi repositorio
 ### Soy Miguel Sánchez, desarrollador de software
 ### 🏫 Actualmente estoy terminando mis estudios de Tecnico superior en desarrollo de aplicaciones multiplataforma.
 ### Aqui puedes ver el proceso de mi aprendizaje con una seleccion de proyectos realizados.
