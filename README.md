@@ -1,6 +1,6 @@
 ### 👋 Hola! Bienvenido a mi repositorio
 ### Soy Miguel Sánchez, desarrollador de software
-### 🏫 Actualmente estoy terminando mis estudios de Tecnico superior en desarrollo de aplicaciones multiplataforma.
+### 🏫 Actualmente poseo el titulo de Tecnico superior en desarrollo de aplicaciones multiplataforma y estoy en proceso de finalizar desarrollo web.
 ### Aqui puedes ver el proceso de mi aprendizaje con una seleccion de proyectos realizados.
 
 ### SKILLS
